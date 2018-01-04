@@ -1,2 +1,2 @@
 # ASTR404
-jupyter notebooks for Stellar Astrophysics 
+jupyter notebooks and image files for the course Introduction to Stellar Astrophysics 
